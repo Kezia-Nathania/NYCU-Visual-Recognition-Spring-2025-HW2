@@ -10,7 +10,7 @@ The experiment explores methods such as Non-Maximum Supression, customized ancho
 
 ## How to Install
 ### Clone the repository:  
-  git clone https://github.com/Kezia-Nathania/NYCU-Visual-Recognition-2025-Spring-HW2.git  
+  git clone https://github.com/Kezia-Nathania/NYCU-Visual-Recognition-Spring-2025-HW2.git  
   cd NYCU-Visual-Recognition-2025-Spring-HW2  
 ### Install dependencies:  
   pip install -r requirements.txt  
