@@ -5,7 +5,7 @@ Name       : Kezia Nathania (林紀霞)
 ## Introduction 
 In this homework there are two tasks: 
 1. Predict class and bounding box of each digit in the image 
-2. Recognize the number of detected digits in the image  
+2. Recognize the number of detected digits in the image   
 The experiment explores methods such as Non-Maximum Supression, customized anchor, and thresholding.
 
 ## How to Install
